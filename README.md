@@ -10,3 +10,10 @@ More to read [regenerate-grpc-code](https://grpc.io/docs/languages/go/quickstart
 - Run `mage` to gen rpc_caller.
 
 ## [Generate Protocol Buffers with Mage](./mage-README.md)
+
+
+## GIT 
+
+git tag **0.0**.**1**;
+
+git push origin **0.0**.**1** -f
