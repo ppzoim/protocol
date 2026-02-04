@@ -17,7 +17,8 @@ package relation
 import (
 	"errors"
 	"fmt"
-	"github.com/openimsdk/protocol/constant"
+
+	"github.com/ppzoim/protocol/constant"
 )
 
 func (x *GetPaginationFriendsReq) Check() error {
