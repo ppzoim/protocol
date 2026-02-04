@@ -1,4 +1,4 @@
-// Copyright © 2023 OpenIM. All rights reserved.
+﻿// Copyright © 2023 OpenIM. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -21,9 +21,9 @@
 package user
 
 import (
-	conversation "github.com/openimsdk/protocol/conversation"
-	sdkws "github.com/openimsdk/protocol/sdkws"
-	wrapperspb "github.com/openimsdk/protocol/wrapperspb"
+	conversation "github.com/ppzoim/protocol/conversation"
+	sdkws "github.com/ppzoim/protocol/sdkws"
+	wrapperspb "github.com/ppzoim/protocol/wrapperspb"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

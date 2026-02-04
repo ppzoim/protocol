@@ -1,4 +1,4 @@
-// Copyright © 2023 OpenIM. All rights reserved.
+﻿// Copyright © 2023 OpenIM. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/openimsdk/protocol/util/datautil"
+	"github.com/ppzoim/protocol/util/datautil"
 )
 
 func (x *GetAllUserIDReq) Check() error {

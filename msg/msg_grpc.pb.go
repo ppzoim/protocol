@@ -1,4 +1,4 @@
-// Copyright © 2023 OpenIM. All rights reserved.
+﻿// Copyright © 2023 OpenIM. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@ package msg
 
 import (
 	context "context"
-	sdkws "github.com/openimsdk/protocol/sdkws"
+	sdkws "github.com/ppzoim/protocol/sdkws"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"
